@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#011C40",
+    "light": "#468AF7",
+    "dark": "#146055"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -32,6 +32,11 @@
     "global": {
       "anchors": [
         {
+          "anchor": "Call our AI Agent",
+          "href": "https://www.getsolum.com",
+          "icon": "phone"
+        },
+        {
           "anchor": "Glossary",
           "href": "https://www.getsolum.com/glossary",
           "icon": "book-open-cover"
@@ -45,8 +50,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
