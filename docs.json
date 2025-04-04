@@ -58,18 +58,9 @@
         "tab": "Changelog",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "changelog",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "changelog/changelog"
             ]
           }
         ]
@@ -78,18 +69,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Glossary",
+          "href": "https://www.getsolum.com/glossary",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://www.getsolum.com/blog",
           "icon": "newspaper"
         }
       ]
