@@ -56,13 +56,8 @@
       },
       {
         "tab": "Changelog",
-        "groups": [
-          {
-            "group": "changelog",
-            "pages": [
-              "changelog/changelog"
-            ]
-          }
+        "pages": [
+          "changelog/changelog"
         ]
       }
     ],
@@ -89,7 +84,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@mintlify.com"
+        "href": "mailto:support@getsolum.com"
       }
     ],
     "primary": {
